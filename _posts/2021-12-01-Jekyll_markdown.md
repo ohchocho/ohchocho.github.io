@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Jekyll_markdown
+title: Jekyll_markdown 관련 
 ---
 
 
