@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Jekyll_markdown 관련 
+categories: JavaScript
 ---
 
 
