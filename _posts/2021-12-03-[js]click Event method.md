@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+---
+layout: single
+title: [js]ckick Event
+categories: JavaScript
+---
+
 # ckick Event
 
 **[js] 자바스크립트 onclick · addEventListener 비교 사용법**
